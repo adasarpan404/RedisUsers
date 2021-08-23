@@ -1,0 +1,11 @@
+<h1>Search Users</h1>
+{{#if error}} <span>{{error}}</span>{{/if}}
+<form method="POST" action="/user/search">
+    <div class="mb-3" method="POST" action="/user/search">
+        <label for="exampleInputEmail1" class="form-label">User Id</label>
+        <input type="text" name="id" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+        <div id="emailHelp" class="form-text">Enter User Id You want to search</div>
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
