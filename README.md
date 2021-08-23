@@ -8,13 +8,13 @@ Redis is an open source (BSD licensed), in-memory data structure store, used as 
 
 It is a client side javascript
 
-![screenshots](/public/screenshot%20(818).png)
+![screenshots](/public/Screenshot%20(818).png)
 
 
 
 
-![screenshots](/public/screenshot%20(819).png)
+![screenshots](/public/Screenshot%20(819).png)
 
 
 
-![screenshots](/public/screenshot%20(820).png)
+![screenshots](/public/Screenshot%20(820).png)
